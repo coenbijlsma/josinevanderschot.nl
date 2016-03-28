@@ -1,1 +1,1 @@
-# josinevanderschot.nl
+# Wordpress Ample child theme
