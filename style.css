@@ -11,3 +11,7 @@
  Tags:          light, white, three-columns, right-sidebar, left-sidebar, custom-header, custom-background, custom-menu, custom-colors, sticky-post, threaded-comments, translation-ready, featured-images, theme-options, responsive-layout
  Text Domain:   ample-child
 */
+
+.fa.search-top {
+    display: none;
+}
